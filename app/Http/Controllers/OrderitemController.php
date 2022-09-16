@@ -36,6 +36,6 @@ class OrderitemController extends Controller
 
 
        }
-       dd("data is stored");
+   
     }
 }
